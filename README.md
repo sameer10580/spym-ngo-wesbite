@@ -29,3 +29,39 @@ This project was built to provide a clean, informative, and accessible digital p
 ---
 
 ## 📁 Project Structure
+spym-chandigarh/
+│
+├── index.html
+├── styles.css
+└── script.js
+
+
+---
+
+## 🎯 Purpose of the Project
+- Support SPYM Chandigarh’s digital outreach
+- Improve visibility of rehabilitation and community programs
+- Provide an easy way for volunteers, interns, and partners to connect
+- Apply practical web development skills in a real social impact project
+
+---
+
+## 👨‍💻 My Role
+- Designed UI/UX layout
+- Developed frontend using HTML, CSS, and JavaScript
+- Implemented responsiveness and interactivity
+- Ensured clarity, accessibility, and performance
+
+---
+
+## 📅 Internship Details
+- **Type:** Social Internship  
+- **Duration:** Summer 2025  
+- **Organization:** SPYM Chandigarh (NGO)
+
+---
+
+## 📌 Disclaimer
+This website was created as part of an academic social internship project.  
+All organizational content, logos, and references belong to **SPYM (Society for Promotion of Youth and Masses)**.
+
